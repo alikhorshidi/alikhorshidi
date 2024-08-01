@@ -4,7 +4,7 @@
   Hi there!
 </h1>
 
-Ali Khorshidi Benam here! I'm a Ph.D. Candidate in Aerospace Engineering majors in Flight Dynamics and Control.
+Ali Khorshidi Benam here! I'm an University Lecturer and Ph.D. in Aerospace Engineering majors in Flight Dynamics and Control.
 
 ### About me
 - 🔭 Researching to improve algorithms on action recognition tasks
